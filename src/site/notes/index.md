@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["ss","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry","gardenEntry"]}
 ---
 
 这是一个首页测试
 [[090 其他/生命的意义是什么《三大队》有感\|生命的意义是什么《三大队》有感]]
+[[020 可视化技巧/0220 可视化案例/切片器下拉默认显示最新日期最佳做法\|切片器下拉默认显示最新日期最佳做法]]
