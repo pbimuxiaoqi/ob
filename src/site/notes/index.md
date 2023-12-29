@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["ss"]}
+{"dg-publish":true,"permalink":"/index/","tags":["ss","gardenEntry"]}
 ---
 
 这是一个首页测试
