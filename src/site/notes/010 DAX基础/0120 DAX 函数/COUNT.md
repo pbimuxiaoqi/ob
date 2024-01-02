@@ -31,7 +31,7 @@ COUNT 只允许使用列作为参数，可以对包含以下类型的值的行�
   
 COUNT 跳过空白值。 不支持 TRUE/FALSE 值。如果要计算 TRUE/FALSE 值的列，请使用 [[COUNTA\|COUNTA]] 函数。  
   
-COUNT 函数在内部执行 [[010 DAX基础/0120 DAX 函数/COUNTX\|010 DAX基础/0120 DAX 函数/COUNTX]]，两者没有任何性能差异。  
+COUNT 函数在内部执行 [[010 DAX基础/0120 DAX 函数/COUNTX\|COUNTX]]，两者没有任何性能差异。  
 
 
 ## 示例
