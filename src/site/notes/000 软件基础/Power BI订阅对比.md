@@ -2,11 +2,9 @@
 {"dg-publish":true,"permalink":"/000 软件基础/Power BI订阅对比/","tags":["订阅"]}
 ---
 
+- \-
 
-
-```
-= this.file.tags
-```
+{ .block-language-dataview}
 
 
 不可否认，在商业BI软件中Power BI是最强大的，在2023年的Gartner的魔力象限中Power BI又是第一名[Microsoft named a Leader in the 2023 Gartner® Magic Quadrant™ for Analytics and BI PlatformsI](https://powerbi.microsoft.com/zh-cn/blog/microsoft-named-a-leader-in-the-2023-gartner-magic-quadrant-for-analytics-and-bi-platforms/)
