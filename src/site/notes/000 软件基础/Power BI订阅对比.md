@@ -5,6 +5,10 @@
 - \-
 
 { .block-language-dataview}
+>[!note] 提醒
+>微软推出了Fabric容量，详细差别可见官方文档
+>https://learn.microsoft.com/zh-cn/fabric/enterprise/licenses
+
 
 
 不可否认，在商业BI软件中Power BI是最强大的，在2023年的Gartner的魔力象限中Power BI又是第一名[Microsoft named a Leader in the 2023 Gartner® Magic Quadrant™ for Analytics and BI PlatformsI](https://powerbi.microsoft.com/zh-cn/blog/microsoft-named-a-leader-in-the-2023-gartner-magic-quadrant-for-analytics-and-bi-platforms/)
@@ -81,3 +85,4 @@ Power BI Premium拥有更强大的性能与更多的功能，如果企业拥有�
 [Power BI Embedded: Stress Testing & Capacity Planning – Data on Wheels – Steve & Kristyna Hughes --- Power BI Embedded： Stress Testing & Capacity Planning – Data on Wheels – Steve & Kristyna Hughes (wordpress.com)](https://dataonwheels.wordpress.com/2022/02/22/power-bi-embedded-stress-testing-capacity-planning/)
 
 无论采用哪种订阅，数据的安全性都是必不可少的。
+
