@@ -35,6 +35,9 @@
 只微软列出的名单中，就有好几个人是我关注的。。。
 ![](https://s2.loli.net/2024/01/17/w9D1bAnFqCstPkg.png)
 
+oreilly也有相对完整的系列视频，使用邮箱注册，即可10内免费查看全站所有资源
+[学习目标 |Microsoft Fabric 完整指南 – Fabric 数据的未来 --- Learning Objectives | Microsoft Fabric Complete Guide – The Future of Data with Fabric (oreilly.com)](https://learning.oreilly.com/videos/microsoft-fabric-complete/9781835467831/9781835467831-video1_3/)
+![](https://s2.loli.net/2024/01/17/LpE6qt8zQgufXTI.png)
 
 # 发布计划
 因为Power BI已经纳入到Fabric下面，在这里也可以查看Power BI相关功能的发布计划
