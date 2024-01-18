@@ -20,7 +20,7 @@
 
 | File                                                                       | created          |
 | -------------------------------------------------------------------------- | ---------------- |
-| [[070 REST API/python操作power BI 数据集\|python操作power BI 数据集]]             | \-               |
+| [[070 REST API/python操作power BI 数据集\|python操作power BI 数据集]]             | 2024-01-18 17:04 |
 | [[085 Fabric/获取所有Fabric工作区中项目列表\|获取所有Fabric工作区中项目列表]]                   | 2024-01-18 10:12 |
 | [[080 外部工具/0830 PBI Explorer/Model Documenter\|Model Documenter]]       | 2024-01-17 22:50 |
 | [[085 Fabric/使用git管理Power BI源代码\|使用git管理Power BI源代码]]                   | \-               |
@@ -42,54 +42,18 @@
 | [[010 DAX基础/0120 DAX 函数/COUNT\|COUNT]]                               | 统计指定列具有非空值的行数。              | 标量     | 5      | 1    |
 | [[010 DAX基础/0120 DAX 函数/COUNTX\|COUNTX]]                             | 计算对表的每一行的表达式求值所产生的值的数量      | 标量     | 5      | 1    |
 | [[010 DAX基础/0120 DAX 函数/DATEADD\|DATEADD]]                           | 按指定的时间间隔移动给定的日期集            | 表      | 5      | 1    |
-| [[010 DAX基础/0120 DAX 函数/DISTINCTCOUNT\|DISTINCTCOUNT]]               | \-                          | 标量     | 5      | 1    |
 | [[010 DAX基础/0120 DAX 函数/DISTINCTCOUNTNOBLANK\|DISTINCTCOUNTNOBLANK]] | \-                          | \-     | 5      | 1    |
+| [[010 DAX基础/0120 DAX 函数/DISTINCTCOUNT\|DISTINCTCOUNT]]               | \-                          | 标量     | 5      | 1    |
 | [[010 DAX基础/0120 DAX 函数/SUM\|SUM]]                                   | 将一列中的所有数字相加                 | 标量     | 5      | 1    |
 
 { .block-language-dataview}
 
 ---
-## 标签云
 
-```chartsview
-#-----------------#
-#- chart type    -#
-#-----------------#
-type: WordCloud
+## 笔记说明
 
-#-----------------#
-#- chart data    -#
-#-----------------#
-data: | 
-  dataviewjs: 
-  return (() => {
-    const tags = this.app.metadataCache.getTags();
-   
-    let dataArray = [];
-    Object.keys(tags).forEach(key => dataArray.push ({tag: key.replace("#",""),count: tags[key]}));
-    return dataArray;
-   })();
+笔记内容来源于个人学习整理或收集的网上的比较好的文章，博客部署采用的是[digitalgarden](https://github.com/oleeskild/digitalgarden)，具体可参见[部署方案](https://dg-docs.ole.dev/advanced/hosting-alternatives/)
 
-
-#-----------------#
-#- chart options -#
-#-----------------#
-options:
-  wordField: "tag"
-  weightField: "count"
-  colorField: "tag"
-style:
-  backgroundColor: "translucent"
-
-#-----------------------------------------------#
-#--- 可选择多彩颜色(colorField) 或单色 (color) ---#
-#---  colorField: "tag" ---#
-#---  color: "#bb5548" ---#
-#-----------------------------------------------#
-
-  wordStyle:
-    rotation: 0
-```
 
 ---
 
