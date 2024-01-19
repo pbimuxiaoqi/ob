@@ -20,16 +20,16 @@
 
 | File                                                                       | created          |
 | -------------------------------------------------------------------------- | ---------------- |
+| [[050 计算组与字段参数/动态格式\|动态格式]]                                             | 2024-01-17 23:20 |
 | [[070 REST API/python操作power BI 数据集\|python操作power BI 数据集]]             | 2024-01-18 17:04 |
 | [[085 Fabric/获取所有Fabric工作区中项目列表\|获取所有Fabric工作区中项目列表]]                   | 2024-01-18 10:12 |
 | [[080 外部工具/0830 PBI Explorer/Model Documenter\|Model Documenter]]       | 2024-01-17 22:50 |
 | [[085 Fabric/使用git管理Power BI源代码\|使用git管理Power BI源代码]]                   | \-               |
 | [[090 其他/dataview学习\|dataview学习]]                                       | 2024-01-17 17:09 |
 | [[020 可视化技巧/0210 可视化规范/使可访问性成为设计过程的一部分\|使可访问性成为设计过程的一部分]]               | 2024-01-17 15:12 |
-| [[072 DMV/通过DMV动态视图管理模型\|通过DMV动态视图管理模型]]                                | 2024-01-17 21:15 |
+| [[075 DMV/通过DMV动态视图管理模型\|通过DMV动态视图管理模型]]                                | 2024-01-17 21:15 |
 | [[085 Fabric/语义模型的OneLake集成\|语义模型的OneLake集成]]                           | 2024-01-16 18:25 |
 | [[085 Fabric/DP-600 beta版已出，Fabric学习资源汇总\|DP-600 beta版已出，Fabric学习资源汇总]] | 2024-01-11 21:34 |
-| [[090 其他/使用AI解决Doris性能不足问题\|使用AI解决Doris性能不足问题]]                         | 2024-01-06 23:18 |
 
 { .block-language-dataview}
 ---
@@ -42,17 +42,19 @@
 | [[010 DAX基础/0120 DAX 函数/COUNT\|COUNT]]                               | 统计指定列具有非空值的行数。              | 标量     | 5      | 1    |
 | [[010 DAX基础/0120 DAX 函数/COUNTX\|COUNTX]]                             | 计算对表的每一行的表达式求值所产生的值的数量      | 标量     | 5      | 1    |
 | [[010 DAX基础/0120 DAX 函数/DATEADD\|DATEADD]]                           | 按指定的时间间隔移动给定的日期集            | 表      | 5      | 1    |
-| [[010 DAX基础/0120 DAX 函数/DISTINCTCOUNTNOBLANK\|DISTINCTCOUNTNOBLANK]] | \-                          | \-     | 5      | 1    |
 | [[010 DAX基础/0120 DAX 函数/DISTINCTCOUNT\|DISTINCTCOUNT]]               | \-                          | 标量     | 5      | 1    |
+| [[010 DAX基础/0120 DAX 函数/DISTINCTCOUNTNOBLANK\|DISTINCTCOUNTNOBLANK]] | \-                          | \-     | 5      | 1    |
 | [[010 DAX基础/0120 DAX 函数/SUM\|SUM]]                                   | 将一列中的所有数字相加                 | 标量     | 5      | 1    |
 
 { .block-language-dataview}
 
 ---
 
-## 笔记说明
+## 说明
 
-笔记内容来源于个人学习整理或收集的网上的比较好的文章，博客部署采用的是[digitalgarden](https://github.com/oleeskild/digitalgarden)，具体可参见[部署方案](https://dg-docs.ole.dev/advanced/hosting-alternatives/)
+内容来源于个人学习笔记或收集的网上的比较好的文章，DAX相关学习内容主要来源于SQLLBI，感谢意大利人博客，也感谢几个微软员工的博客，感谢所有成为我养料的网上资源 。、
+
+博客部署采用的是[digitalgarden](https://github.com/oleeskild/digitalgarden)，具体可参见[部署方案](https://dg-docs.ole.dev/advanced/hosting-alternatives/)
 
 
 ---
