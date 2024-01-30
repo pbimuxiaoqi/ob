@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/090 其他/使用AI解决Doris性能不足问题/","tags":["数据加载","性能优化","分区","分页","其他"]}
+{"dg-publish":true,"permalink":"/090 其他/使用AI解决Doris性能不足问题/","tags":["数据加载","性能优化","分区","分页","其他","ai"]}
 ---
 
 [Apache Doris](https://doris.apache.org/zh-CN/docs/dev/get-starting/what-is-apache-doris/) 是一个基于 MPP 架构的高性能、实时的分析型数据库，以极速易用的特点被人们所熟知，仅需亚秒级响应时间即可返回海量数据下的查询结果，不仅可以支持高并发的点查询场景，也能支持高吞吐的复杂分析场景。
