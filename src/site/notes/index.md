@@ -18,18 +18,18 @@
 
 #  最近文章
 
-| File                                                                       | created          |
-| -------------------------------------------------------------------------- | ---------------- |
-| [[050 计算组与字段参数/动态格式\|动态格式]]                                             | 2024-01-17 23:20 |
-| [[070 REST API/python操作power BI 数据集\|python操作power BI 数据集]]             | 2024-01-18 17:04 |
-| [[085 Fabric/获取所有Fabric工作区中项目列表\|获取所有Fabric工作区中项目列表]]                   | 2024-01-18 10:12 |
-| [[080 外部工具/0830 PBI Explorer/Model Documenter\|Model Documenter]]       | 2024-01-17 22:50 |
-| [[085 Fabric/使用git管理Power BI源代码\|使用git管理Power BI源代码]]                   | \-               |
-| [[090 其他/dataview学习\|dataview学习]]                                       | 2024-01-17 17:09 |
-| [[020 可视化技巧/0210 可视化规范/使可访问性成为设计过程的一部分\|使可访问性成为设计过程的一部分]]               | 2024-01-17 15:12 |
-| [[075 DMV/通过DMV动态视图管理模型\|通过DMV动态视图管理模型]]                                | 2024-01-17 21:15 |
-| [[085 Fabric/语义模型的OneLake集成\|语义模型的OneLake集成]]                           | 2024-01-16 18:25 |
-| [[085 Fabric/DP-600 beta版已出，Fabric学习资源汇总\|DP-600 beta版已出，Fabric学习资源汇总]] | 2024-01-11 21:34 |
+| File                                                                                 | created          |
+| ------------------------------------------------------------------------------------ | ---------------- |
+| [[040 DAX进阶/0430 函数进阶/dateadd vs parallelperiod\|dateadd vs parallelperiod]]      | 2024-01-30 16:41 |
+| [[070 REST API/增量刷新\|增量刷新]]                                                       | \-               |
+| [[080 外部工具/MSHGQM 和 Quick Measure Pro\|MSHGQM 和 Quick Measure Pro]]               | 2024-01-29 23:20 |
+| [[090 其他/如何更好地向AI提问\|如何更好地向AI提问]]                                                 | 2024-01-28 17:22 |
+| [[020 可视化技巧/0210 可视化规范/收藏这5个网站，轻点鼠标制作漂亮的Power BI主题\|收藏这5个网站，轻点鼠标制作漂亮的Power BI主题]] | 2024-01-27 19:59 |
+| [[090 其他/使用AI绘图快速制作微信红包封面\|使用AI绘图快速制作微信红包封面]]                                     | 2024-01-27 18:20 |
+| [[000 软件基础/获取Power BI模型本地连接信息\|获取Power BI模型本地连接信息]]                               | 2024-01-26 11:03 |
+| [[085 Fabric/是否需要高级容量\|是否需要高级容量]]                                                 | \-               |
+| [[085 Fabric/暂停和恢复Fabric容量\|暂停和恢复Fabric容量]]                                       | \-               |
+| [[080 外部工具/0850 AlM/修改增量刷新的模型\|修改增量刷新的模型]]                                        | \-               |
 
 { .block-language-dataview}
 ---
@@ -56,7 +56,6 @@
 
 博客部署采用的是[digitalgarden](https://github.com/oleeskild/digitalgarden)，具体可参见[部署方案](https://dg-docs.ole.dev/advanced/hosting-alternatives/)
 
-
 ---
 
-
+<a href="https://notbyai.fyi"><img src="https://s2.loli.net/2024/01/19/karKNFv5oMhewt7.png" alt="Written by Human, Not by AI"></a>
