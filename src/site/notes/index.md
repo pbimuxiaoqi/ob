@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry","gardenEntry"]}
 ---
 
 # Power BI木小桼  | [[010 DAX基础/0100 DAX 导航/1 函数导航\|DAX函数]]  |  [[090 其他/关于我\|关于我]] | 
@@ -52,7 +52,7 @@
 
 ## 说明
 
-内容来源于个人学习笔记或收集的网上的比较好的文章，DAX相关学习内容主要来源于SQLLBI，感谢意大利人博客，也感谢几个微软员工的博客，感谢所有成为我养料的网上资源 。、
+内容来源于个人学习笔记或收集的网上的比较好的文章，DAX相关学习内容主要来源于SQLBI，感谢意大利人博客，也感谢几个微软员工的博客，感谢所有成为我养料的网上资源 。、
 
 博客部署采用的是[digitalgarden](https://github.com/oleeskild/digitalgarden)，具体可参见[部署方案](https://dg-docs.ole.dev/advanced/hosting-alternatives/)
 
