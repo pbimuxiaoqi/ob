@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/090 其他/AI资源推荐/","tags":["资源导航"]}
+{"dg-publish":true,"permalink":"/090 其他/AI资源推荐/","tags":["资源导航","ai"]}
 ---
 
-- https://www.wolai.com/muxiaoqi/pAL4wD5DMbJbYpEqpyJyH
+- - https://www.wolai.com/muxiaoqi/pAL4wD5DMbJbYpEqpyJyH
+
 
 { .block-language-dataview}
 
