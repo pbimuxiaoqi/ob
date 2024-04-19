@@ -3,6 +3,7 @@
 ---
 
 
+[sempy.fabric 软件包 |Microsoft学习 --- sempy.fabric package | Microsoft Learn](https://learn.microsoft.com/en-us/python/api/semantic-link-sempy/sempy.fabric?view=semantic-link-python#sempy-fabric-list-items)
 
 ```js
 !pip install --upgrade semantic-link --q #upgrade to semantic-link v0.5
