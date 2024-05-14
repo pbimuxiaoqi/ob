@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 # Power BI木小桼  | [[00 技能/010 Power BI/010 DAX基础/0100 DAX 导航/1 函数导航\|DAX函数]]  |  [[90 其他/关于我\|关于我]] | 
