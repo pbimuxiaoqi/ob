@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 # Power BI木小桼  | [[00 技能/010 Power BI/010 DAX基础/0100 DAX 导航/1 函数导航\|DAX函数]]  |  [[90 其他/关于我\|关于我]] | 
@@ -19,16 +19,16 @@
 
 | File                                                            | created                               |
 | --------------------------------------------------------------- | ------------------------------------- |
+| [[40 资源/900 网址/Coze.cn\|Coze.cn]]                            | \-                                    |
+| [[40 资源/900 网址/Claude\|Claude]]                              | \-                                    |
+| [[40 资源/900 网址/Coze.com\|Coze.com]]                          | \-                                    |
 | [[30 公众号/Power BI实现Mysql增量刷新\|Power BI实现Mysql增量刷新]]          | 2024-06-30 09:51                      |
 | [[30 公众号/学会提问，打通解决问题的任督二脉\|学会提问，打通解决问题的任督二脉]]                | 2024-06-25 21:58                      |
 | [[00 技能/010 Power BI/020 可视化技巧/0240 SVG/svg基础\|svg基础]]       | 2024-06-19 16:46                      |
 | [[00 技能/010 Power BI/020 可视化技巧/0220 可视化案例/矩阵自定义排序\|矩阵自定义排序]] | 2024-06-19 10:39                      |
 | [[40 资源/900 网址/网址导航\|网址导航]]                                  | <ul><li><b>{ date }</b>: \-</li></ul> |
-| [[40 资源/900 网址/ChatGPT\|ChatGPT]]                            | <ul><li><b>{ date }</b>: \-</li></ul> |
-| [[40 资源/900 网址/Gemini\|Gemini]]                              | <ul><li><b>{ date }</b>: \-</li></ul> |
-| [[40 资源/999 模板/网址模板\|网址模板]]                                  | <ul><li><b>{ date }</b>: \-</li></ul> |
-| [[00 技能/010 Power BI/075 DMV/INFO 函数用法\|INFO 函数用法]]          | \-                                    |
-| [[20 读书/20 笔记/产品思维--梁宁\|产品思维--梁宁]]                           | \-                                    |
+| [[40 资源/900 网址/ChatGPT\|ChatGPT]]                            | \-                                    |
+| [[40 资源/900 网址/Gemini\|Gemini]]                              | \-                                    |
 
 { .block-language-dataview}
 ---
