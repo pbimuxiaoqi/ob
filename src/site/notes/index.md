@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry","gardenEntry"]}
 ---
 
 # Power BI木小桼  | [[00 技能/010 Power BI/010 DAX基础/0100 DAX 导航/1 函数导航\|DAX函数]]  |  [[90 其他/关于我\|关于我]] | 
@@ -17,18 +17,18 @@
 
 #  最近文章
 
-| File                                                                                                          | created                               |
-| ------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| [[00 技能/010 Power BI/070 REST API/增量刷新\|增量刷新]]                                                             | 2024-04-29 17:59                      |
-| [[20 读书/10 书籍/优化DAX\|优化DAX]]                                                                               | \-                                    |
-| [[40 资源/999 模板/book模板\|book模板]]                                                                            | <ul><li><b>{ date }</b>: \-</li></ul> |
-| [[00 技能/010 Power BI/085 Fabric/通过API刷新报表中的partialBatch Commit Mode\|通过API刷新报表中的partialBatch Commit Mode]] | 2024-05-13 11:36                      |
-| [[00 技能/010 Power BI/060 门户与权限管理/0601 门户设置\|0601 门户设置]]                                                    | 2024-05-06 14:16                      |
-| [[00 技能/010 Power BI/040 DAX进阶/0410 高级原理/DAX引擎\|DAX引擎]]                                                    | 2023-09-10 17:37                      |
-| [[90 其他/更好的向AI提问\|更好的向AI提问]]                                                                               | 2024-04-03 10:44                      |
-| [[00 技能/010 Power BI/060 门户与权限管理/动态订阅\|动态订阅]]                                                              | 2024-01-19 19:39                      |
-| [[00 技能/010 Power BI/060 门户与权限管理/Power BI 语义模型内存错误\|Power BI 语义模型内存错误]]                                    | 2024-04-29 09:55                      |
-| [[90 其他/药品医院销售分析\|药品医院销售分析]]                                                                               | \-                                    |
+| File                                                            | created                               |
+| --------------------------------------------------------------- | ------------------------------------- |
+| [[30 公众号/Power BI实现Mysql增量刷新\|Power BI实现Mysql增量刷新]]          | 2024-06-30 09:51                      |
+| [[30 公众号/学会提问，打通解决问题的任督二脉\|学会提问，打通解决问题的任督二脉]]                | 2024-06-25 21:58                      |
+| [[00 技能/010 Power BI/020 可视化技巧/0240 SVG/svg基础\|svg基础]]       | 2024-06-19 16:46                      |
+| [[00 技能/010 Power BI/020 可视化技巧/0220 可视化案例/矩阵自定义排序\|矩阵自定义排序]] | 2024-06-19 10:39                      |
+| [[40 资源/900 网址/网址导航\|网址导航]]                                  | <ul><li><b>{ date }</b>: \-</li></ul> |
+| [[40 资源/900 网址/ChatGPT\|ChatGPT]]                            | <ul><li><b>{ date }</b>: \-</li></ul> |
+| [[40 资源/900 网址/Gemini\|Gemini]]                              | <ul><li><b>{ date }</b>: \-</li></ul> |
+| [[40 资源/999 模板/网址模板\|网址模板]]                                  | <ul><li><b>{ date }</b>: \-</li></ul> |
+| [[00 技能/010 Power BI/075 DMV/INFO 函数用法\|INFO 函数用法]]          | \-                                    |
+| [[20 读书/20 笔记/产品思维--梁宁\|产品思维--梁宁]]                           | \-                                    |
 
 { .block-language-dataview}
 ---
@@ -39,10 +39,10 @@
 | [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/FILTER\|FILTER]]                             | \-                          | 表      | 5      | 4    |
 | [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/AVERAGE\|AVERAGE]]                           | 返回列中所有数字的算术平均值，可以处理文本和非数字值。 | 标量     | 5      | 1    |
 | [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/COUNT\|COUNT]]                               | 统计指定列具有非空值的行数。              | 标量     | 5      | 1    |
-| [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/COUNTX\|COUNTX]]                             | 计算对表的每一行的表达式求值所产生的值的数量      | 标量     | 5      | 1    |
 | [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/DATEADD\|DATEADD]]                           | 按指定的时间间隔移动给定的日期集            | 表      | 5      | 1    |
-| [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/DISTINCTCOUNTNOBLANK\|DISTINCTCOUNTNOBLANK]] | \-                          | \-     | 5      | 1    |
+| [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/COUNTX\|COUNTX]]                             | 计算对表的每一行的表达式求值所产生的值的数量      | 标量     | 5      | 1    |
 | [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/DISTINCTCOUNT\|DISTINCTCOUNT]]               | \-                          | 标量     | 5      | 1    |
+| [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/DISTINCTCOUNTNOBLANK\|DISTINCTCOUNTNOBLANK]] | \-                          | \-     | 5      | 1    |
 | [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/ROUND\|ROUND]]                               | \-                          | 标量     | 5      | 1    |
 | [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/SUM\|SUM]]                                   | 将一列中的所有数字相加                 | 标量     | 5      | 1    |
 
