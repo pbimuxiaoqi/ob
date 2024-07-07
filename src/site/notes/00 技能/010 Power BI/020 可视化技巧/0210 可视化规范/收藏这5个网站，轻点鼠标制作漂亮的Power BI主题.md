@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00 技能/010 Power BI/020 可视化技巧/0210 可视化规范/收藏这5个网站，轻点鼠标制作漂亮的Power BI主题/","tags":["主题","资源导航"]}
+{"dg-publish":true,"permalink":"/00 技能/010 Power BI/020 可视化技巧/0210 可视化规范/收藏这5个网站，轻点鼠标制作漂亮的Power BI主题/","tags":["主题","资源导航","公众号"]}
 ---
 
 Power BI开发人员经常遇到这样的情况：
