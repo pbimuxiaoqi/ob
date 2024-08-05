@@ -25,10 +25,10 @@
 | [[00 技能/050 AIGC/应用/Claude制作2048\|Claude制作2048]]                          | 2024-08-03 22:26 |
 | [[00 技能/050 AIGC/应用/Claude制作井字棋\|Claude制作井字棋]]                            | 2024-08-03 22:26 |
 | [[00 技能/050 AIGC/应用/Coze打造英语教练\|Coze打造英语教练]]                              | 2024-08-04 22:27 |
+| [[00 技能/050 AIGC/提示词工程/01提示工程入门\|01提示工程入门]]                               | 2024-08-03 16:20 |
 | [[00 技能/010 Power BI/080 外部工具/前后端分离\|前后端分离]]                              | 2024-07-30 16:51 |
 | [[00 技能/010 Power BI/060 门户与权限管理/缩放工作区容量\|缩放工作区容量]]                       | 2024-07-15 10:00 |
 | [[30 公众号/使用semanti-link-labs修改模型添加自定义分区\|使用semanti-link-labs修改模型添加自定义分区]] | 2024-07-06 23:09 |
-| [[30 公众号/Power BI管理自定义分区实现伪增量刷新\|Power BI管理自定义分区实现伪增量刷新]]                 | 2024-07-02 13:40 |
 
 { .block-language-dataview}
 ---
@@ -39,8 +39,8 @@
 | [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/FILTER\|FILTER]]                             | \-                          | 表      | 5      | 4    |
 | [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/AVERAGE\|AVERAGE]]                           | 返回列中所有数字的算术平均值，可以处理文本和非数字值。 | 标量     | 5      | 1    |
 | [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/COUNT\|COUNT]]                               | 统计指定列具有非空值的行数。              | 标量     | 5      | 1    |
-| [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/COUNTX\|COUNTX]]                             | 计算对表的每一行的表达式求值所产生的值的数量      | 标量     | 5      | 1    |
 | [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/DATEADD\|DATEADD]]                           | 按指定的时间间隔移动给定的日期集            | 表      | 5      | 1    |
+| [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/COUNTX\|COUNTX]]                             | 计算对表的每一行的表达式求值所产生的值的数量      | 标量     | 5      | 1    |
 | [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/DISTINCTCOUNT\|DISTINCTCOUNT]]               | \-                          | 标量     | 5      | 1    |
 | [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/DISTINCTCOUNTNOBLANK\|DISTINCTCOUNTNOBLANK]] | \-                          | \-     | 5      | 1    |
 | [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/ROUND\|ROUND]]                               | \-                          | 标量     | 5      | 1    |
