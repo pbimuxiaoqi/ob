@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry","gardenEntry"]}
 ---
 
 # Power BI木小桼  | [[00 技能/010 Power BI/010 DAX基础/0100 DAX 导航/1 函数导航\|DAX函数]]  |  [[90 其他/关于我\|关于我]] | 
@@ -26,8 +26,8 @@
 | [[00 技能/050 AIGC/应用/个性化角色回复\|个性化角色回复]]                   | 2024-08-04 22:14 |
 | [[00 技能/050 AIGC/应用/Claude制作2048\|Claude制作2048]]         | 2024-08-03 22:26 |
 | [[00 技能/050 AIGC/应用/Claude制作井字棋\|Claude制作井字棋]]           | 2024-08-03 22:26 |
-| [[00 技能/050 AIGC/应用/Coze打造英语教练\|Coze打造英语教练]]             | 2024-08-04 22:27 |
 | [[00 技能/050 AIGC/应用/Coze反思模式更好的翻译助手\|Coze反思模式更好的翻译助手]]   | 2024-08-05 18:12 |
+| [[00 技能/050 AIGC/应用/Coze打造英语教练\|Coze打造英语教练]]             | 2024-08-04 22:27 |
 | [[00 技能/050 AIGC/提示词工程/01提示工程入门\|01提示工程入门]]              | 2024-08-03 16:20 |
 
 { .block-language-dataview}
@@ -39,12 +39,12 @@
 | [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/FILTER\|FILTER]]                             | \-                          | 表      | 5      | 4    |
 | [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/AVERAGE\|AVERAGE]]                           | 返回列中所有数字的算术平均值，可以处理文本和非数字值。 | 标量     | 5      | 1    |
 | [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/COUNT\|COUNT]]                               | 统计指定列具有非空值的行数。              | 标量     | 5      | 1    |
-| [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/DISTINCTCOUNT\|DISTINCTCOUNT]]               | \-                          | 标量     | 5      | 1    |
-| [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/DISTINCTCOUNTNOBLANK\|DISTINCTCOUNTNOBLANK]] | \-                          | \-     | 5      | 1    |
 | [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/COUNTX\|COUNTX]]                             | 计算对表的每一行的表达式求值所产生的值的数量      | 标量     | 5      | 1    |
 | [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/DATEADD\|DATEADD]]                           | 按指定的时间间隔移动给定的日期集            | 表      | 5      | 1    |
-| [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/ROUND\|ROUND]]                               | \-                          | 标量     | 5      | 1    |
+| [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/DISTINCTCOUNT\|DISTINCTCOUNT]]               | \-                          | 标量     | 5      | 1    |
+| [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/DISTINCTCOUNTNOBLANK\|DISTINCTCOUNTNOBLANK]] | \-                          | \-     | 5      | 1    |
 | [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/SUM\|SUM]]                                   | 将一列中的所有数字相加                 | 标量     | 5      | 1    |
+| [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/ROUND\|ROUND]]                               | \-                          | 标量     | 5      | 1    |
 
 { .block-language-dataview}
 
@@ -53,11 +53,11 @@
 - [[00 技能/050 AIGC/应用/Claude制作2048\|Claude制作2048]]
 - [[00 技能/050 AIGC/应用/Claude制作井字棋\|Claude制作井字棋]]
 - [[00 技能/050 AIGC/应用/Claude将文档制作成互动游戏\|Claude将文档制作成互动游戏]]
-- [[00 技能/050 AIGC/应用/Coze打造英语教练\|Coze打造英语教练]]
 - [[00 技能/050 AIGC/应用/Coze反思模式更好的翻译助手\|Coze反思模式更好的翻译助手]]
+- [[00 技能/050 AIGC/应用/Coze打造英语教练\|Coze打造英语教练]]
 - [[00 技能/050 AIGC/应用/个性化角色回复\|个性化角色回复]]
-- [[00 技能/050 AIGC/应用/阅读助手\|阅读助手]]
 - [[00 技能/050 AIGC/应用/学习导师\|学习导师]]
+- [[00 技能/050 AIGC/应用/阅读助手\|阅读助手]]
 
 { .block-language-dataview}
 
