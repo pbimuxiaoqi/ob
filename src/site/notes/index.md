@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 # Power BI木小桼  | [[00 技能/010 Power BI/010 DAX基础/0100 DAX 导航/1 函数导航\|DAX函数]]  |  [[90 其他/关于我\|关于我]] | 
@@ -43,8 +43,8 @@
 | [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/DATEADD\|DATEADD]]                           | 按指定的时间间隔移动给定的日期集            | 表      | 5      | 1    |
 | [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/DISTINCTCOUNT\|DISTINCTCOUNT]]               | \-                          | 标量     | 5      | 1    |
 | [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/DISTINCTCOUNTNOBLANK\|DISTINCTCOUNTNOBLANK]] | \-                          | \-     | 5      | 1    |
-| [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/ROUND\|ROUND]]                               | \-                          | 标量     | 5      | 1    |
 | [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/SUM\|SUM]]                                   | 将一列中的所有数字相加                 | 标量     | 5      | 1    |
+| [[00 技能/010 Power BI/010 DAX基础/0120 DAX 函数/ROUND\|ROUND]]                               | \-                          | 标量     | 5      | 1    |
 
 { .block-language-dataview}
 
@@ -55,8 +55,8 @@
 - [[00 技能/050 AIGC/应用/Claude将文档制作成互动游戏\|Claude将文档制作成互动游戏]]
 - [[00 技能/050 AIGC/应用/Coze反思模式更好的翻译助手\|Coze反思模式更好的翻译助手]]
 - [[00 技能/050 AIGC/应用/Coze打造英语教练\|Coze打造英语教练]]
-- [[00 技能/050 AIGC/应用/个性化角色回复\|个性化角色回复]]
 - [[00 技能/050 AIGC/应用/学习导师，轻松制作学习计划\|学习导师，轻松制作学习计划]]
+- [[00 技能/050 AIGC/应用/个性化角色回复\|个性化角色回复]]
 - [[00 技能/050 AIGC/应用/阅读助手\|阅读助手]]
 
 { .block-language-dataview}
