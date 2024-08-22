@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30 公众号/Power BI实现Mysql增量刷新/","tags":["公众号","增量刷新"]}
+{"dg-publish":true,"permalink":"/30 公众号/Power BI实现Mysql增量刷新/","tags":["公众号","增量刷新","链接服务器"]}
 ---
 
 
